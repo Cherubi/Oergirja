@@ -1,0 +1,13 @@
+Aihe:
+
+TehdŠŠn tyškalu oergirjan tekemiseen ja selailuun. (Oergirja kŠytŠnnšssŠ kuin Pokedex, otuksilla on vain eri ominaisuuksia.)
+
+
+Ohjelmointikieli:
+
+MielellŠŠn Ruby. HŠtŠsuunnitelmana PHP?
+
+
+Tietokanta:
+
+Helpoin kenties PostgreSQL.
